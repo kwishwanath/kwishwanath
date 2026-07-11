@@ -11,7 +11,7 @@
 
 - 🏗️ **15+ years** in software engineering — full-stack web platforms, system design, and delivery
 - 👥 **Tech Lead** — driving architecture decisions, code quality, and mentoring engineers
-- 🔭 Currently building **[Maya Tours](https://github.com/kwishwanath/maya-tours)** — a React + Vite travel platform — alongside TypeScript side projects like **[KetoKid](https://github.com/kwishwanath/ketokid)**
+- 🔭 Currently building **Maya Tours** — a React + Vite travel platform — alongside TypeScript side projects like **[KetoKid](https://github.com/kwishwanath/ketokid)**
 - 💡 Deep experience across the stack: modern **React/TypeScript** frontends, **Java** and **Node.js** services, and the tooling that keeps teams fast
 
 ### 🛠️ Tech I work with
@@ -32,7 +32,7 @@
 
 | Project | What it is |
 |---|---|
-| [Maya Tours](https://github.com/kwishwanath/maya-tours) | Travel & tours platform — React 18, Vite, Framer Motion |
+| Maya Tours | Travel & tours platform — React 18, Vite, Framer Motion *(private)* |
 | [KetoKid](https://github.com/kwishwanath/ketokid) | TypeScript application, actively developed |
 | [kwishwanath.github.io](https://github.com/kwishwanath/kwishwanath.github.io) | Personal site |
 
