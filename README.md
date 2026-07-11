@@ -49,8 +49,12 @@ const wishwanath = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwishwanath&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwishwanath&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top languages" height="170" />
+  <img src="https://raw.githubusercontent.com/kwishwanath/kwishwanath/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kwishwanath/kwishwanath/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="47%" />
+  <img src="https://raw.githubusercontent.com/kwishwanath/kwishwanath/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" width="47%" />
 </p>
 
 <p align="center">
