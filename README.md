@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Wishwanath%20Kulathunga&fontColor=e6f1ff&fontSize=44&fontAlignY=38&desc=Tech%20Lead%20·%2015%2B%20years%20of%20building,%20shipping%20%26%20scaling%20software&descSize=17&descAlignY=58" width="100%" alt="Wishwanath Kulathunga — Tech Lead · 15+ years" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Wishwanath%20Kulathunga&fontColor=e6f1ff&fontSize=44&fontAlignY=38&desc=Tech%20Lead%20%C2%B7%2015%2B%20years%20of%20building%2C%20shipping%20%26%20scaling%20software&descSize=17&descAlignY=58" width="100%" alt="Wishwanath Kulathunga - Tech Lead, 15+ years" />
 
 <p align="center">
   <em>I lead engineering teams and architect web platforms — from first commit to production and beyond.</em>
