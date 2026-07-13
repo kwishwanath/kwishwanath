@@ -22,8 +22,41 @@ const wishwanath = {
 
 - 🏗️ **15+ years** shipping software — web platforms, system design, end-to-end delivery
 - 👥 Leading teams: architecture decisions, code quality standards, and mentoring engineers
-- 🔭 Side projects: **[KetoKid](https://github.com/kwishwanath/ketokid)** (TypeScript) · **[Maya Tours]** (React 18 + Vite, private)
 - 💬 Ask me about **React, TypeScript, Java, Node.js**, and making teams faster
+
+<br/>
+
+## 🛤️ The Journey
+
+<!-- TODO: replace the placeholder years/details below with your real milestones -->
+
+- **2010** — First production code: full-stack web development with **Java & JavaScript**
+- **2016** — Moved into **architecture**: designing and owning scalable web platforms end-to-end
+- **2021** — **Tech Lead**: driving architecture decisions, code quality standards, and mentoring engineers
+- **Now** — Building **Maya Tours** (React 18 + Vite) and leading delivery from first commit to production 🚀
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🥑 KetoKid</h3>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <!-- TODO: one-line description of what KetoKid does -->
+      <p>A TypeScript side project.</p>
+      <p><em>🔒 Private repo — happy to walk through it on request</em></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🌏 Maya Tours</h3>
+      <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <p>A travel platform — architecture, build, and delivery led end to end.</p>
+      <p><em>🔒 Private client work</em></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -82,6 +115,9 @@ const wishwanath = {
 ## 📫 Get In Touch
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/wishwanath-kulathunga">
+    <img src="https://img.shields.io/badge/LinkedIn-Wishwanath_Kulathunga-0f2027?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:k.wishwanath@gmail.com">
     <img src="https://img.shields.io/badge/Email-k.wishwanath%40gmail.com-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -90,6 +126,6 @@ const wishwanath = {
   </a>
 </p>
 
-<p align="center"><em>Always happy to talk engineering, architecture, or leading teams.</em></p>
+<p align="center"><em>Need help with an architecture review, scaling a team, or a hard engineering problem?<br/>Email is the fastest way to reach me — I reply to every message.</em></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer" width="100%" alt="" />
