@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wishwanath Kulathunga — Director at Zetta B, Tech Lead, 15+ years shipping software">
+<svg width="100%" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wishwanath Kulathunga — Development Head at Zetta B, Tech Lead, 15+ years shipping software">
   <defs>
     <linearGradient id="underline" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#00d4aa"/>
@@ -28,7 +28,7 @@
   </ellipse>
 
   <text x="600" y="132" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#eafff9">Wishwanath <tspan fill="#00d4aa">Kulathunga</tspan></text>
-  <text x="600" y="176" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9fb3c8">Director @ Zetta B · Tech Lead · 15+ Years Shipping Software</text>
+  <text x="600" y="176" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9fb3c8">Development Head @ Zetta B · Tech Lead · 15+ Years Shipping Software</text>
   <rect x="500" y="200" width="200" height="4" rx="2" fill="url(#underline)"/>
 
   <g font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="21" text-anchor="middle">

@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/kwishwanath/kwishwanath/main/assets/banner.svg" width="100%" alt="Wishwanath Kulathunga — Director @ Zetta B · Tech Lead · 15+ Years Shipping Software" />
+<img src="https://raw.githubusercontent.com/kwishwanath/kwishwanath/main/assets/banner.svg" width="100%" alt="Wishwanath Kulathunga — Development Head @ Zetta B · Tech Lead · 15+ Years Shipping Software" />
 
 > ### I build software that ships.
 >
-> 15+ years turning ideas into production systems — from enterprise platforms serving thousands of employees to modern web and mobile apps. As Director at **Zetta B (Pvt) Ltd**, I lead delivery of custom software accelerated by AI-assisted engineering.
+> 15+ years turning ideas into production systems — from enterprise platforms serving thousands of employees to modern web and mobile apps. As Development Head at **Zetta B (Pvt) Ltd**, I lead delivery of custom software accelerated by AI-assisted engineering.
 >
 > _If you need an architect who still writes code, let's talk._
 
@@ -88,7 +88,7 @@
 - **2011** — Started my professional career as a **Trainee Software Developer** at **Micro Research Group (Pvt) Ltd**
 - **2011 → 2021** — Progressed through **Associate → Software Engineer → Senior Software Engineer**, designing, developing, and delivering enterprise software solutions
 - **2021** — Became a **Tech Lead**: leading engineering teams, shaping architecture decisions, establishing development standards, and mentoring engineers
-- **Today** — **Director @ Zetta B (Pvt) Ltd**, leading AI-accelerated delivery of custom client solutions 🚀
+- **Today** — **Development Head @ Zetta B (Pvt) Ltd**, leading AI-accelerated delivery of custom client solutions 🚀
 
 My teams pair senior engineering judgment with AI-assisted workflows — **Claude Code, Codex, GitHub Copilot** — so clients get velocity _and_ quality.
 
