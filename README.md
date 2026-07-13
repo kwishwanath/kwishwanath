@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kwishwanath/kwishwanath/main/assets/banner.svg" width="100%" alt="Wishwanath Kulathunga — Development Head @ Zetta B · Tech Lead · 15+ Years Shipping Software" />
+<img src="https://raw.githubusercontent.com/kwishwanath/kwishwanath/main/assets/banner.svg?v=2" width="100%" alt="Wishwanath Kulathunga — Development Head @ Zetta B · Tech Lead · 15+ Years Shipping Software" />
 
 > ### I build software that ships.
 >
