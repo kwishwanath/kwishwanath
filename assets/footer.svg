@@ -1,0 +1,18 @@
+<svg width="100%" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+  <defs>
+    <linearGradient id="strip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b0f1a"/>
+      <stop offset="0.55" stop-color="#00d4aa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0.45"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#00d4aa" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#00d4aa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="70" fill="#0b0f1a"/>
+  <rect width="1200" height="70" fill="url(#strip)"/>
+  <ellipse cx="300" cy="35" rx="260" ry="45" fill="url(#fglow)">
+    <animate attributeName="cx" values="300;900;300" dur="26s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>
