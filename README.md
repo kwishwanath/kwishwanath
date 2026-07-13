@@ -28,12 +28,11 @@ const wishwanath = {
 
 ## 🛤️ The Journey
 
-<!-- TODO: replace the placeholder years/details below with your real milestones -->
-
-- **2010** — First production code: full-stack web development with **Java & JavaScript**
-- **2016** — Moved into **architecture**: designing and owning scalable web platforms end-to-end
-- **2021** — **Tech Lead**: driving architecture decisions, code quality standards, and mentoring engineers
-- **Now** — Building **Maya Tours** (React 18 + Vite) and leading delivery from first commit to production 🚀
+- **2008** — Began my IT journey with a Diploma at **IDM Computer Studies, Kurunegala**, gaining practical industry experience as an Industrial Trainee
+- **2011** — Started my professional career as a **Trainee Software Developer** at **Micro Research Group (Pvt) Ltd**
+- **2011 → 2021** — Progressed through **Associate → Software Engineer → Senior Software Engineer**, designing, developing, and delivering enterprise software solutions
+- **2021** — Became a **Tech Lead**: leading engineering teams, shaping architecture decisions, establishing development standards, and mentoring engineers
+- **Today** — Combining years of engineering experience with modern technologies and **AI-powered development practices** to build reliable, scalable software 🚀
 
 <br/>
 
