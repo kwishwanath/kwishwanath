@@ -28,7 +28,7 @@ const wishwanath = {
 
 ## 🛤️ The Journey
 
-- **2008** — Began my IT journey with a Diploma at **IDM Computer Studies, Kurunegala**, gaining practical industry experience as an Industrial Trainee
+- **2008** — Began my IT journey, gaining practical industry experience as an **Industrial Trainee**
 - **2011** — Started my professional career as a **Trainee Software Developer** at **Micro Research Group (Pvt) Ltd**
 - **2011 → 2021** — Progressed through **Associate → Software Engineer → Senior Software Engineer**, designing, developing, and delivering enterprise software solutions
 - **2021** — Became a **Tech Lead**: leading engineering teams, shaping architecture decisions, establishing development standards, and mentoring engineers
